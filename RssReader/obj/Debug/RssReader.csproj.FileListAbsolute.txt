@@ -1,0 +1,9 @@
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.exe.config
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.exe
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.pdb
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RssReader.csprojAssemblyReference.cache
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RSS_Okuma_Uygulaması.Form1.resources
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RSS_Okuma_Uygulaması.Properties.Resources.resources
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RssReader.csproj.GenerateResource.cache
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.exe
+D:\Belgeler\source\RssReader\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.pdb
